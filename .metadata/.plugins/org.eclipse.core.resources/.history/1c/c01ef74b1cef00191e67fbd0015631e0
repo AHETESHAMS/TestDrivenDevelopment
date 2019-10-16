@@ -1,0 +1,15 @@
+package com.bridgelabz.isbntools;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ValidateIsbnTools {
+
+	@Test
+	void checkAValidIsbnNumber() 
+	{
+		fail();
+	}
+
+}

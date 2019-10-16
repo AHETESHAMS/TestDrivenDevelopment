@@ -1,0 +1,26 @@
+package com.bridgelabz.isbntools;
+
+import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import com.brdigelabz.isbntools.ValidateIsbn;
+
+class ValidateIsbnTools {
+
+	@Test
+	void checkAValidIsbnNumber() 
+	{
+		ValidateIsbn validateIsbn =  new ValidateIsbn();
+		boolean result = validateIsbn.checkIsbn(140449116);
+		assertTrue(result);
+	}
+	@Test
+	void checkAnInvalidIsbnNumber() 
+	{
+		ValidateIsbn validateIsbn =  new ValidateIsbn();
+		boolean result = validateIsbn.checkIsbn(140449116);
+		assertTrue(result);
+	}
+}

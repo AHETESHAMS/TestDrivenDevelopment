@@ -1,0 +1,9 @@
+package com.brdigelabz.isbntools;
+
+public class ValidateIsbn {
+
+	public boolean checkIsbn(int i) {
+		return true;
+	}
+
+}

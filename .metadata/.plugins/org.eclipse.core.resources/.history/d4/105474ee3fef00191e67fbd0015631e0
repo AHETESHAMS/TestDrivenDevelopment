@@ -1,0 +1,19 @@
+package com.brdigelabz.isbntools;
+
+public class ValidateIsbn {
+
+	public boolean checkIsbn(String isbnNumber) {
+		int total=0;
+		for(int i=0;i<10;i++)
+		{
+			System.out.println((isbnNumber.charAt(i)-48) * (10-i) );
+		}
+		if(total%11 == 0)
+		{
+			System.out.println("Ok");
+			return true;
+		}	
+		return false;
+	}
+
+}
