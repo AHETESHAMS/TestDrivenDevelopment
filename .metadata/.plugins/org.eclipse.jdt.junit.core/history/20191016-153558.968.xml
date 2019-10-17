@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ValidateIsbnTools" project="IsbnNumberValidator" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="com.bridgelabz.isbntools.ValidateIsbnTools" time="0.019" displayname="ValidateIsbnTools" uniqueid="[engine:junit-jupiter]/[class:com.bridgelabz.isbntools.ValidateIsbnTools]">
-    <testcase name="checkAValidIsbnNumber" classname="com.bridgelabz.isbntools.ValidateIsbnTools" time="0.008" displayname="checkAValidIsbnNumber()" uniqueid="[engine:junit-jupiter]/[class:com.bridgelabz.isbntools.ValidateIsbnTools]/[method:checkAValidIsbnNumber()]"/>
-    <testcase name="nineDigitIsbnsAreNotAllowed" classname="com.bridgelabz.isbntools.ValidateIsbnTools" time="0.001" displayname="nineDigitIsbnsAreNotAllowed()" uniqueid="[engine:junit-jupiter]/[class:com.bridgelabz.isbntools.ValidateIsbnTools]/[method:nineDigitIsbnsAreNotAllowed()]"/>
-    <testcase name="checkAnInvalidIsbnNumber" classname="com.bridgelabz.isbntools.ValidateIsbnTools" time="0.01" displayname="checkAnInvalidIsbnNumber()" uniqueid="[engine:junit-jupiter]/[class:com.bridgelabz.isbntools.ValidateIsbnTools]/[method:checkAnInvalidIsbnNumber()]"/>
-  </testsuite>
-</testrun>
