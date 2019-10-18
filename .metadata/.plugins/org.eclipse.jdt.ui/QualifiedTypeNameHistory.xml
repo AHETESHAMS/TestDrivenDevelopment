@@ -4,4 +4,6 @@
 <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
 <fullyQualifiedTypeName name="java.lang.Character"/>
 <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="com.brdigelabz.isbntools.StockManager"/>
+<fullyQualifiedTypeName name="com.brdigelabz.isbntools.ExternalIsbnDataService"/>
 </qualifiedTypeNameHistroy>
